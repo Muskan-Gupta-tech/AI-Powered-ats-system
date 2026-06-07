@@ -2,7 +2,6 @@
 
 ## Prerequisites
 - Java 17+
-- Node.js 18+
 - MySQL 8+
 - Maven
 
